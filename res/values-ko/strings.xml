@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2013 The OmniROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 2 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<string name="app_name" translatable="false">Omni스위치</string>
+	<string name="package_stop_task_title">중단</string>
+	<string name="package_inspect_item_title">어플 정보</string>
+	<string name="recents_settings_title" translatable="false">Omni스위치</string>
+	<string name="start_on_boot_title">부팅 후 자동시작</string>
+	<string name="start_on_boot_summary">부팅이 완료되면 자동으로 실행됩니다.</string>
+	<string name="opacity_title">투명도</string>
+	<string name="opacity_summary">오버레이뷰의 배경 투명도</string>
+	<string name="animate_title">애니메이션</string>
+	<string name="animate_title_summary">창이 나타났다가 사라질때 애니메이션 표시여부</string>
+	<string name="adjust_handle_help">드래그 핸들의 크기를 조정합니다.</string>
+	<string name="icon_size_normal">중간</string>
+	<string name="icon_size_small">작은</string>
+	<string name="icon_size_large">큰</string>
+	<string name="icon_size_title">아이콘 크기</string>
+	<string name="ok">확인</string>
+	<string name="cancel">취소</string>
+	<string name="drag_handle_color_title">색깔</string>
+	<string name="drag_handle_color_dialog_title">색깔</string>
+	<string name="service_background_processes"><xliff:g id="memory">%1$s</xliff:g> 사용 가능</string>
+	<string name="service_foreground_processes"><xliff:g id="memory">%1$s</xliff:g> 사용 중</string>
+	<string name="show_rambar_title">메모리 사용량 표시</string>
+	<string name="show_rambar_summary">Display amount of free and used memory</string>
+	<string name="show_app_labels">어플 이름 표시</string>
+	<string name="show_app_labels_summary">Application name will be displayed with the icon</string>
+	<string name="category_overlay_title">오버레이</string>
+	<string name="category_drag_handle_title">드레그 헨들</string>
+	<string name="category_favorite_title">즐겨찾기</string>
+	<string name="favorite_apps_config_title">즐겨찾기 관리</string>
+	<string name="favorite_apps_config_summary">Define apps shown in favorites view</string>
+	<string name="favorite_apps_add_dialog_title">어플 추가</string>
+	<string name="favorite_add">추가\u2026</string>
+	<string name="location_left">왼쪽</string>
+	<string name="location_right">오른쪽</string>
+	<string name="reset">기본</string>
+	<string name="toggle_last_app">Last app</string>
+	<string name="toggle_last_app_help">Switch to last app</string>
+	<string name="kill_all_apps_help">모두 종료</string>
+	<string name="kill_other_apps_help">사용중인 어플 제외하고 종료</string>
+	<string name="settings_help">설정</string>
+	<string name="home_help">홈</string>
+	<string name="kill_all_apps">모두 종료</string>
+	<string name="kill_other_apps">사용중인 어플 제외하고 종료</string>
+	<string name="settings">설정</string>
+	<string name="home">홈</string>
+	<string name="buttons_title">버튼</string>
+	<string name="buttons_summary">Configure action buttons in overlay view</string>
+	<string name="auto_hide_handle">자동으로 숨기기</string>
+	<string name="auto_hide_handle_summary">Two swipes to show overlay view</string>
+	<string name="no_recent_apps_title">최근에 사용한 어플이 없습니다.</string>
+	<string name="drag_handle_opacity_title">투명도</string>
+	<string name="drag_handle_enable_title">활성화</string>
+	<string name="drag_handle_enable_summary">Disable only if you use another activation method</string>
+	<string name="allapps_help">App drawer</string>
+	<string name="allapps">어플</string>
+	<string name="dim_behind_title">Dim background</string>
+	<string name="dim_behind_summary">Apply opacity to complete screen</string>
+	<string name="gravity_title">Horizontal gravity</string>
+	<string name="gravity_center">Center</string>
+	<string name="gravity_drag">Drag handle side</string>
+	<string name="dialog_pick_iconpack_title">Pick icon pack</string>
+	<string name="default_iconpack_title">기본 아이콘</string>
+	<string name="icon_packs_title">아이콘팩</string>
+	<string name="no_iconpacks_summary">No icon packs installed</string>
+	<string name="icon_pack_title">아이콘팩</string>
+	<string name="icon_pack_summary">Use icon pack for app icons</string>
+	<string name="category_speed_switcher_title">Quick Switcher</string>
+	<string name="speed_switcher_enable_summary">Long press drag handle to activate</string>
+	<string name="speed_switcher_enable_title">활성화</string>
+	<string name="back">뒤로가기</string>
+	<string name="back_help">뒤로가기</string>
+	<string name="kill_current">Kill current</string>
+	<string name="kill_current_help">Kill current app</string>
+	<string name="speed_switch_color_summary">파랑색 - 최근 사용 어플. 초록색 - 즐겨찾기. 빨간색 - 액션</string>
+	<string name="speed_switch_color">Level background colors</string>
+	<string name="speed_switch_limit_summary">Limit area for level changes</string>
+	<string name="speed_switch_limit">Level change area</string>
+	<string name="speed_switch_button_title">Buttons</string>
+	<string name="speed_switch_button_summary">Configure action buttons in quick switcher view</string>
+	<string name="speed_switch_items_summary">Maximum number of level items</string>
+	<string name="speed_switch_item">Level item limit</string>
+	<string name="immersive_mode">Immersive mode</string>
+	<string name="immersive_mode_help">Toggle immersive mode</string>
+	<string name="package_add_favorite_title">Add to favorites</string>
+	<string name="package_remove_favorite_title">Remove from favorites</string>
+	<string name="open_favorite_help">Open/close favorites view</string>
+	<string name="button_pos_title">버튼 위치</string>
+	<string name="button_pos_top">위/왼쪽</string>
+	<string name="button_pos_bottom">아래/오른쪽</string>
+	<string name="bg_style_solid_light">밝은</string>
+	<string name="bg_style_solid_dark">어두운</string>
+	<string name="bg_style_transparent">Transparent</string>
+	<string name="bg_style_title">Background style</string>
+	<string name="lock_to_app">Pin app</string>
+	<string name="lock_app_help">Pin current app</string>
+	<string name="app_filter_category_title">App filter</string>
+	<string name="app_filter_boot_title">Active since boot</string>
+	<string name="layout_style_title">스타일</string>
+	<string name="layout_style_1">가로</string>
+	<string name="layout_style_2">세로</string>
+	<string name="no_limit">제한 없음</string>
+	<string name="one_hour">1시간</string>
+	<string name="three_hours">3시간</string>
+	<string name="six_hours">6시간</string>
+	<string name="twelve_hours">12시간</string>
+	<string name="one_day">1일</string>
+	<string name="two_days">2일</string>
+	<string name="one_week">1주</string>
+	<string name="app_filter_time_title">Active since</string>
+	<string name="close_help">오버레이 닫기</string>
+	<string name="close">닫기</string>
+	<string name="thumb_size_title">썸네일 크기</string>
+	<string name="thumb_size_normal">표준</string>
+	<string name="thumb_size_small">작은</string>
+	<string name="thumb_size_medium">중간</string>
+	<string name="package_lock_task_title">Pin app</string>
+	<string name="lock_app_not_enabled">Screen pinning is not enabled in security settings</string>
+	<string name="app_filter_running_title">Running only</string>
+	<string name="menu">메뉴</string>
+	<string name="menu_help">메뉴</string>
+	<string name="enable_title">활성화</string>
+	<string name="adjust_handle_width">가로</string>
+	<string name="adjust_handle_position">위치</string>
+	<string name="package_top_task_title">위</string>
+	<string name="package_left_task_title">왼쪽</string>
+	<string name="package_bottom_task_title">아래</string>
+	<string name="package_right_task_title">오른쪽</string>
+	<string name="package_full_task_title">전체 화면</string>
+	<string name="shortcut_label_toggle_overlay">토글 오버레이</string>
+	<string name="adjust_handle_title_new">Configure drag handle</string>
+	<string name="adjust_handle_summary">Configure position size and color</string>
+</resources>
